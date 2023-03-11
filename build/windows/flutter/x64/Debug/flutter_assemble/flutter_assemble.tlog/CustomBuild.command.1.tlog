@@ -1,0 +1,28 @@
+^E:\MYUDA\FLUTTER\PRACTISTE\CRUD\BUILD\WINDOWS\CMAKEFILES\649F45D7E665DA20EED0C3A1FC364604\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+E:\Vistd\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -E env FLUTTER_ROOT=E:\setting\flutter\src\flutter PROJECT_DIR=E:\MyUDA\FLUTTER\PRACTISTE\crud FLUTTER_ROOT=E:\setting\flutter\src\flutter FLUTTER_EPHEMERAL_DIR=E:\MyUDA\FLUTTER\PRACTISTE\crud\windows\flutter\ephemeral PROJECT_DIR=E:\MyUDA\FLUTTER\PRACTISTE\crud FLUTTER_TARGET=E:\MyUDA\FLUTTER\PRACTISTE\crud\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=E:\MyUDA\FLUTTER\PRACTISTE\crud\.dart_tool\package_config.json E:/setting/flutter/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\MYUDA\FLUTTER\PRACTISTE\CRUD\BUILD\WINDOWS\CMAKEFILES\BC1CF399D81F1DBC8C5CA457455F28ED\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\MYUDA\FLUTTER\PRACTISTE\CRUD\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+E:\Vistd\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/MyUDA/FLUTTER/PRACTISTE/crud/windows -BE:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows --check-stamp-file E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

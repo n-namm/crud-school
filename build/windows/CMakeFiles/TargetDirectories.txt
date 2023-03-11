@@ -1,0 +1,10 @@
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/CMakeFiles/INSTALL.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/CMakeFiles/ALL_BUILD.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/CMakeFiles/ZERO_CHECK.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/flutter/CMakeFiles/INSTALL.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/CMakeFiles/crud.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/CMakeFiles/INSTALL.dir
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/CMakeFiles/ALL_BUILD.dir

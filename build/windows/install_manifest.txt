@@ -1,0 +1,9 @@
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/icudtl.dat
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/flutter_windows.dll
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

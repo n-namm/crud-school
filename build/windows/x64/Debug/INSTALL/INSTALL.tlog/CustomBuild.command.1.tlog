@@ -1,0 +1,10 @@
+^E:\MYUDA\FLUTTER\PRACTISTE\CRUD\BUILD\WINDOWS\CMAKEFILES\46DEAFDDC573D76C930A8BEBA48D2FE8\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

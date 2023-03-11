@@ -1,0 +1,10 @@
+^E:\MYUDA\FLUTTER\PRACTISTE\CRUD\BUILD\WINDOWS\CMAKEFILES\46DEAFDDC573D76C930A8BEBA48D2FE8\GENERATE.STAMP.RULE
+setlocal
+E:\Vistd\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -SE:/MyUDA/FLUTTER/PRACTISTE/crud/windows -BE:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/MyUDA/FLUTTER/PRACTISTE/crud/build/windows/crud.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
